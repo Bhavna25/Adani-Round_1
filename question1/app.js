@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Bhavna25 
-tsuraj225
-/
-nobel
-Public
-2
-01
-Code
-Issues
-Pull requests
-2
-Actions
-Projects
-Wiki
-Security
-Insights
-nobel/app.js /
-@tsuraj225
-tsuraj225 Add files via upload
-…
-Latest commit 5f78df9 on Dec 19, 2019
- History
- 1 contributor
-35 lines (28 sloc)  788 Bytes
   
 document.getElementById("button").addEventListener("click", loadData);
 
@@ -64,16 +33,3 @@ function loadData() {
   //send
   xhr.send();
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
